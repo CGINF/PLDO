@@ -1,0 +1,37 @@
+Grupo;Descrição ;Masculino;Feminino;Geral;Poder
+;Quantidade 298.810;298.810;239.522;538.332;Executivo
+Servidores;Remuneração média (R$) 9.641,88;9.641,88;8.466,72;9.119,01;Executivo
+;Idade média (anos) 48,08;48,08;46,15;47,22;Executivo
+;Quantidade 205.221;205221;230.661;435.882;Executivo
+Aposentados;Provento médio (R$) 10.050,09;10050,09;8.559,60;9.261,35;Executivo
+;Idade média (anos) 72,92;72,92;70,88;71,84;Executivo
+;Quantidade 26.925;26925;264.466;291.391;Executivo
+Pensionistas;Provento médio (R$) 5.766,65;5766,65;5.953,45;5.936,19;Executivo
+;Idade média (anos) 59,84;59,84;71,01;69,98;Executivo
+;Quantidade 4.705;4705;2.278;6.983;Legislativo
+Servidores;Remuneração média (R$) 22.794,75;22794,75;22.602,54;22.732,05;Legislativo
+;Idade média (anos) 48,49;48,49;47,51;48,17;Legislativo
+;Quantidade 4.590;4590;4.177;8.767;Legislativo
+Aposentados;Provento médio (R$) 33.072,62;33072,62;32.858,18;32.970,45;Legislativo
+;Idade média (anos) 70,99;70,99;68,61;69,86;Legislativo
+;Quantidade 433;433;3.156;3.589;Legislativo
+Pensionistas;Provento médio (R$) 21.871,53;21871,53;23.930,49;23.682,08;Legislativo
+;Idade média (anos) 52,80;52,8;65,32;63,81;Legislativo
+;Quantidade 51.037;51037;48.951;99.988;Judiciário
+Servidores;Remuneração média (R$) 13.496,10;13496,1;13.719,11;13.605,28;Judiciário
+;Idade média (anos) 46,76;46,76;45,78;46,28;Judiciário
+;Quantidade 12.112;12112;20.227;32.339;Judiciário
+Aposentados;Provento médio (R$) 20.527,33;20527,33;20.097,46;20.258,46;Judiciário
+;Idade média (anos) 70,32;70,32;66,45;67,9;Judiciário
+;Quantidade 1.869;1869;7.316;9.185;Judiciário
+Pensionistas;Provento médio (R$) 14.379,79;14379,79;16.039,90;15.702,09;Judiciário
+;Idade média (anos) 56,99;56,99;67,76;65,57;Judiciário
+;Quantidade 10.254;10254;7.993;18.247;Ministério Público
+Servidores;Remuneração média (R$) 14.287,91;14287,91;14.378,29;14.327,50;Ministério Público
+;Idade média (anos) 45,50;45,5;44,12;44,89;Ministério Público
+;Quantidade 1.023;1023;1.502;2.525;Ministério Público
+Aposentados;Provento médio (R$) 21.788,02;21788,02;18.483,62;19.822,39;Ministério Público
+;Idade média (anos) 70,32;70,32;67,42;68,6;Ministério Público
+;Quantidade 150;150;745;895;Ministério Público
+Pensionistas;Provento médio (R$) 13.928,48;13928,48;17.761,28;17.118,91;Ministério Público
+;Idade média (anos) 52,55;52,55;67,97;65,38;Ministério Público
