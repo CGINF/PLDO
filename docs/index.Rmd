@@ -184,5 +184,110 @@ weekly <- df_pivot_Exe_ida %>%
 e_arrange(y, trend, weekly, nrow = 3)
 ```
 
+### Remuneração média - Geral
 
+```{r}
+df_pivot <- dados_consolidados |> tidyr::pivot_longer(
+  cols = c("Masculino", "Feminino", "Geral"),names_to = "Qtde" ) |>
+  tidyr::pivot_wider(names_from = "Poder", values_from = value) 
+
+df_pivot_Exe_serv <- df_pivot |> 
+  dplyr::filter(Grupo == "Servidores",
+         Descrição == "Remuneração média (R$)",
+         Qtde == "Geral"
+         )
+
+df_pivot_Exe_apose <- df_pivot |>
+  filter(Grupo == "Aposentados",
+         Descrição == "Remuneração média (R$)",
+         Qtde == "Geral")
+
+df_pivot_Exe_Pens <- df_pivot |>
+  filter(Grupo == "Pensionistas",
+         Descrição == "Remuneração média (R$)",
+         Qtde == "Geral")
+# base_chart <- df_pivot_Exe %>%
+#   e_charts(x = Ano, height = 200) %>%
+#   e_tooltip() %>%
+#   e_x_axis(Ano, axisPointer = list(
+#     show = TRUE,
+#     label = list(show = FALSE)
+#   )) %>%
+#   e_y_axis(
+#     nameLocation = "end",
+#     nameTextStyle = list(
+#       color = "#666666",
+#       fontWeight = "bold"
+#     )
+#   ) %>%
+#   e_group("df_pivot_Exe") %>%
+#   e_grid(top = 35, bottom = 35)
+
+servidores <- df_pivot_Exe_serv %>%
+  e_charts(x = Ano, height = 200) %>%
+  e_tooltip() %>%
+  e_x_axis(Ano, axisPointer = list(
+    show = TRUE,
+    label = list(show = FALSE)
+  )) %>%
+  e_y_axis(
+    nameLocation = "end",
+    nameTextStyle = list(
+      color = "#666666",
+      fontWeight = "bold"
+    )) %>%
+  #echarts4r::e_theme("gray") %>%
+  e_line(Executivo, symbol = "none", legend = FALSE) %>%
+  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
+  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
+  e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_datazoom(show = FALSE, toolbox = FALSE) %>%
+  e_axis_labels(y = "Remuneração média (R$) - Servidores")
+
+
+aposentados <- df_pivot_Exe_apose %>%
+  e_charts(x = Ano, height = 200) %>%
+  e_tooltip() %>%
+  e_x_axis(Ano, axisPointer = list(
+    show = TRUE,
+    label = list(show = FALSE)
+  )) %>%
+  e_y_axis(
+    nameLocation = "end",
+    nameTextStyle = list(
+      color = "#666666",
+      fontWeight = "bold"
+    )) %>%
+  #echarts4r::e_theme("gray") %>%
+  e_line(Executivo, symbol = "none", legend = FALSE) %>%
+  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
+  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
+  e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_datazoom(show = FALSE, toolbox = FALSE) %>%
+  e_axis_labels(y = "Remuneração média (R$) - Aposentados")
+
+
+pensionista <- df_pivot_Exe_Pens %>%
+  e_charts(x = Ano, height = 200) %>%
+  e_tooltip() %>%
+  e_x_axis(Ano, axisPointer = list(
+    show = TRUE,
+    label = list(show = FALSE)
+  )) %>%
+  e_y_axis(
+    nameLocation = "end",
+    nameTextStyle = list(
+      color = "#666666",
+      fontWeight = "bold"
+    )) %>%
+  #echarts4r::e_theme("gray") %>%
+  e_line(Executivo, symbol = "none", legend = FALSE) %>%
+  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
+  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
+  e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_datazoom(show = FALSE, toolbox = FALSE) %>%
+  e_axis_labels(y = "Remuneração média (R$) - Pensionistas")
+
+e_arrange(servidores, aposentados, pensionista)
+```
 
