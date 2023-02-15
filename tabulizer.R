@@ -132,7 +132,7 @@ browseURL(path_pdf_tabulizer)
 tabela_pagina1 <- tabulizer::extract_tables(
   path_pdf_tabulizer, 
   pages = 14, 
-  method = "stream", # existem 2, tente os dois para ver qual funciona melhor
+  method = "lattice", # existem 2, tente os dois para ver qual funciona melhor
   output = "data.frame"
 )
 

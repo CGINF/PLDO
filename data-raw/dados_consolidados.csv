@@ -125,24 +125,24 @@ Ano;Grupo;Descrição;Masculino;Feminino;Geral;Poder
 2020;Pensionistas;Quantidade;442;3012;3454;Legislativo
 2020;Pensionistas;Remuneração média (R$);15101,82;15219,99;15204,87;Legislativo
 2020;Pensionistas;Idade média (anos);50,46;66,39;64,35;Legislativo
-2020;Servidores;Quantidade;302879;240747;543626;Judiciário
-2020;Servidores;Remuneração média (R$);10271,76;9099,25;9752,51;Judiciário
-2020;Servidores;Idade média (anos);48,49;47,26;47,95;Judiciário
-2020;Aposentados;Quantidade;193713;214019;407732;Judiciário
-2020;Aposentados;Remuneração média (R$);9592,75;8183,12;8852,83;Judiciário
-2020;Aposentados;Idade média (anos);73,63;71,16;72,33;Judiciário
-2020;Pensionistas;Quantidade;26658;255586;282244;Judiciário
-2020;Pensionistas;Remuneração média (R$);5345,6;5366,85;5364,84;Judiciário
-2020;Pensionistas;Idade média (anos);56,76;70,1;68,84;Judiciário
-2020;Servidores;Quantidade;7266;4668;11934;Ministério Público
-2020;Servidores;Remuneração média (R$);21468,99;18251,59;20210,5;Ministério Público
-2020;Servidores;Idade média (anos);46,65;43,92;45,58;Ministério Público
-2020;Aposentados;Quantidade;4530;4040;8570;Ministério Público
-2020;Aposentados;Remuneração média (R$);29554,06;28793,24;29195,4;Ministério Público
-2020;Aposentados;Idade média (anos);70,82;68,29;69,63;Ministério Público
-2020;Pensionistas;Quantidade;442;3012;3454;Ministério Público
-2020;Pensionistas;Remuneração média (R$);15101,82;15219,99;15204,87;Ministério Público
-2020;Pensionistas;Idade média (anos);50,46;66,39;64,35;Ministério Público
+2020;Servidores;Quantidade;56.129;56.633;112.762;Judiciário
+2020;Servidores;Remuneração média (R$);14.331,56;14.135,08;14.232,88;Judiciário
+2020;Servidores;Idade média (anos);46,45;45,4;45,92;Judiciário
+2020;Aposentados;Quantidade;10.001;18.165;28.166;Judiciário
+2020;Aposentados;Remuneração média (R$);18.863,15;19.105,04;19.019,15;Judiciário
+2020;Aposentados;Idade média (anos);71,2;66,69;68,29;Judiciário
+2020;Pensionistas;Quantidade;1.304;6.229;7.533;Judiciário
+2020;Pensionistas;Remuneração média (R$);10.935,49;12.391,67;12.139,60;Judiciário
+2020;Pensionistas;Idade média (anos);50,79;66,6;63,87;Judiciário
+2020;Servidores;Quantidade;11.588;8.868;20.456;Ministério Público
+2020;Servidores;Remuneração média (R$);14.619,39;14.866,33;14.726,44;Ministério Público
+2020;Servidores;Idade média (anos);44,99;43,7;44,43;Ministério Público
+2020;Aposentados;Quantidade;958;1.426;2.384;Ministério Público
+2020;Aposentados;Remuneração média (R$);19.994,13;17.134,59;18.283,68;Ministério Público
+2020;Aposentados;Idade média (anos);70,19;67,63;68,66;Ministério Público
+2020;Pensionistas;Quantidade;153;761;914;Ministério Público
+2020;Pensionistas;Remuneração média (R$);10.912,58;14.600,75;13.983,37;Ministério Público
+2020;Pensionistas;Idade média (anos);49,17;65,46;62,73;Ministério Público
 2019;Servidores;Quantidade;309386;245006;554392;Executivo
 2019;Servidores;Remuneração média (R$);9719,91;8675,32;9258,27;Executivo
 2019;Servidores;Idade média (anos);47,7;46,5;47,2;Executivo
@@ -287,3 +287,39 @@ Ano;Grupo;Descrição;Masculino;Feminino;Geral;Poder
 2016;Pensionistas;Quantidade;346;132;478;Ministério Público
 2016;Pensionistas;Remuneração média (R$);17968,75;17968,75;17968,75;Ministério Público
 2016;Pensionistas;Idade média (anos);58,05;69,12;61,1;Ministério Público
+2015;Servidores;Quantidade;271762;218435;490197;Executivo
+2015;Servidores;Remuneração média (R$);7289,11;6612,39;7043;Executivo
+2015;Servidores;Idade média (anos);48,2;46,95;47,64;Executivo
+2015;Aposentados;Quantidade;158738;163717;322455;Executivo
+2015;Aposentados;Remuneração média (R$);7044,66;6098,03;6564,04;Executivo
+2015;Aposentados;Idade média (anos);71,3;68,27;69,76;Executivo
+2015;Pensionistas;Quantidade;27888;315981;343869;Executivo
+2015;Pensionistas;Remuneração média (R$);4969,69;5893,22;5818,32;Executivo
+2015;Pensionistas;Idade média (anos);54,7;72,56;71,11;Executivo
+2015;Servidores;Quantidade;6.299;3.850;10.149;Legislativo
+2015;Servidores;Remuneração média (R$);10.617,95;11.354,55;10.897,38;Legislativo
+2015;Servidores;Idade média (anos);47,84;48,12;47,95;Legislativo
+2015;Aposentados;Quantidade;1.328;1.318;2.646;Legislativo
+2015;Aposentados;Remuneração média (R$);25.352,21;24.796,21;25.075,26;Legislativo
+2015;Aposentados;Idade média (anos);69,02;67,17;68,1;Legislativo
+2015;Pensionistas;Quantidade;168;920;1088;Legislativo
+2015;Pensionistas;Remuneração média (R$);19.445,94;22.024,60;21.626,42;Legislativo
+2015;Pensionistas;Idade média (anos);43,88;59,43;57,03;Legislativo
+2015;Servidores;Quantidade;46.346;47.685;94.031;Judiciário
+2015;Servidores;Remuneração média (R$);7.585,42;7.575,33;7.580,30;Judiciário
+2015;Servidores;Idade média (anos);42,87;42,85;42,86;Judiciário
+2015;Aposentados;Quantidade;1.638;2.377;4.015;Judiciário
+2015;Aposentados;Remuneração média (R$);10.585,44;678;4.719,94;Judiciário
+2015;Aposentados;Idade média (anos);69,04;65,64;67,03;Judiciário
+2015;Pensionistas;Quantidade;6.043;7.104;13.147;Judiciário
+2015;Pensionistas;Remuneração média (R$);17.016,60;17.007,02;17.011,42;Judiciário
+2015;Pensionistas;Idade média (anos);42,36;43,63;43,05;Judiciário
+2015;Servidores;Quantidade;5228;3607;8835;Ministério Público
+2015;Servidores;Remuneração média (R$);8715,73;8365,37;8572,69;Ministério Público
+2015;Servidores;Idade média (anos);40,1;40,03;40,08;Ministério Público
+2015;Aposentados;Quantidade;460;544;1004;Ministério Público
+2015;Aposentados;Remuneração média (R$);17994,72;18450,59;18241,73;Ministério Público
+2015;Aposentados;Idade média (anos);70,72;69,75;70,2;Ministério Público
+2015;Pensionistas;Quantidade;163;181;344;Ministério Público
+2015;Pensionistas;Remuneração média (R$);11510,08;11510,08;11510,08;Ministério Público
+2015;Pensionistas;Idade média (anos);32,94;37,6;35,39;Ministério Público
