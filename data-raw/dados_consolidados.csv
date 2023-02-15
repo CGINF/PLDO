@@ -1,289 +1,289 @@
-Ano;Grupo;DescriÃ§Ã£o;Masculino;Feminino;Geral;Poder
-2023;Servidores;Quantidade;299037,00;237125,00;536162,00;Executivo
-2023;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);10942,21;9603,98;10350,36;Executivo
-2023;Servidores;Idade mÃ©dia (anos);48,73;46,96;47,95;Executivo
-2023;Aposentados;Quantidade;199950,00;229093,00;429043,00;Executivo
-2023;Aposentados;Provento mÃ©dio (R$);10297,57;8697,08;9442,97;Executivo
-2023;Aposentados;Idade mÃ©dia (anos);73,88;71,98;72,86;Executivo
-2023;Pensionistas;Quantidade;27063,00;261829,00;288892,00;Executivo
-2023;Pensionistas;Provento mÃ©dio (R$);5734,25;5649,82;5657,73;Executivo
-2023;Pensionistas;Idade mÃ©dia (anos);59,08;71,21;70,08;Executivo
-2023;Servidores;Quantidade;4663,00;2237,00;6900,00;Legislativo
-2023;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);22416,02;21505,43;22120,80;Legislativo
-2023;Servidores;Idade mÃ©dia (anos);49,31;48,23;48,96;Legislativo
-2023;Aposentados;Quantidade;4520,00;4139,00;8659,00;Legislativo
-2023;Aposentados;Provento mÃ©dio (R$);32978,47;32628,47;32811,17;Legislativo
-2023;Aposentados;Idade mÃ©dia (anos);71,24;69,54;70,43;Legislativo
-2023;Pensionistas;Quantidade;448,00;3218,00;3666,00;Legislativo
-2023;Pensionistas;Provento mÃ©dio (R$);18755,53;20504,13;20290,45;Legislativo
-2023;Pensionistas;Idade mÃ©dia (anos);52,07;67,76;65,84;Legislativo
-2023;Servidores;Quantidade;52186,00;50917,00;103103,00;JudiciÃ¡rio
-2023;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);12907,51;12970,58;12938,66;JudiciÃ¡rio
-2023;Servidores;Idade mÃ©dia (anos);47,64;47,64;47,64;JudiciÃ¡rio
-2023;Aposentados;Quantidade;11476,00;20258,00;31734,00;JudiciÃ¡rio
-2023;Aposentados;Provento mÃ©dio (R$);21331,46;21772,05;21612,72;JudiciÃ¡rio
-2023;Aposentados;Idade.média..anos.  X;70,48;67,58;68,53;JudiciÃ¡rio
-2023;Pensionistas;Quantidade;1576,00;7836,00;9412,00;JudiciÃ¡rio
-2023;Pensionistas;Provento médio (R$);12629,85;15603,61;15105,66;JudiciÃ¡rio
-2023;Pensionistas;Idade média (anos);53,08;66,98;64,65;JudiciÃ¡rio
-2023;Servidores;Quantidade;9375,00;7253,00;16628,00;MinistÃ©rio PÃºblico
-2023;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);14944,32;15078,18;15002,71;MinistÃ©rio PÃºblico
-2023;Servidores;Idade mÃ©dia (anos);46,19;44,71;45,55;MinistÃ©rio PÃºblico
-2023;Aposentados;Quantidade;1006,00;1504,00;2510,00;MinistÃ©rio PÃºblico
-2023;Aposentados;Provento mÃ©dio (R$);22474,67;18926,95;20348,87;MinistÃ©rio PÃºblico
-2023;Aposentados;Idade mÃ©dia (anos);70,77;68,34;69,32;MinistÃ©rio PÃºblico
-2023;Pensionistas;Quantidade;173,00;793,00;966,00;MinistÃ©rio PÃºblico
-2023;Pensionistas;Provento mÃ©dio (R$);12071,66;16853,92;15997,47;MinistÃ©rio PÃºblico
-2023;Pensionistas;Idade mÃ©dia (anos);49,98;66,72;63,73;MinistÃ©rio PÃºblico
-2022;Servidores;Quantidade 298.810;298810,00;239522,00;538332,00;Executivo
-2022;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 9.641,88;9641,88;8466,72;9119,01;Executivo
-2022;Servidores;Idade mÃ©dia (anos) 48,08;48,08;46,15;47,22;Executivo
-2022;Aposentados;Quantidade 205.221;205221,00;230661,00;435882,00;Executivo
-2022;Aposentados;Provento mÃ©dio (R$) 10.050,09;10050,09;8559,60;9261,35;Executivo
-2022;Aposentados;Idade mÃ©dia (anos) 72,92;72,92;70,88;71,84;Executivo
-2022;Pensionistas;Quantidade 26.925;26925,00;264466,00;291391,00;Executivo
-2022;Pensionistas;Provento mÃ©dio (R$) 5.766,65;5766,65;5953,45;5936,19;Executivo
-2022;Pensionistas;Idade mÃ©dia (anos) 59,84;59,84;71,01;69,98;Executivo
-2022;Servidores;Quantidade 4.705;4705,00;2278,00;6983,00;Legislativo
-2022;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 22.794,75;22794,75;22602,54;22732,05;Legislativo
-2022;Servidores;Idade mÃ©dia (anos) 48,49;48,49;47,51;48,17;Legislativo
-2022;Aposentados;Quantidade 4.590;4590,00;4177,00;8767,00;Legislativo
-2022;Aposentados;Provento mÃ©dio (R$) 33.072,62;33072,62;32858,18;32970,45;Legislativo
-2022;Aposentados;Idade mÃ©dia (anos) 70,99;70,99;68,61;69,86;Legislativo
-2022;Pensionistas;Quantidade 433;433,00;3156,00;3589,00;Legislativo
-2022;Pensionistas;Provento mÃ©dio (R$) 21.871,53;21871,53;23930,49;23682,08;Legislativo
-2022;Pensionistas;Idade mÃ©dia (anos) 52,80;52,80;65,32;63,81;Legislativo
-2022;Servidores;Quantidade 51.037;51037,00;48951,00;99988,00;JudiciÃ¡rio
-2022;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 13.496,10;13496,10;13719,11;13605,28;JudiciÃ¡rio
-2022;Servidores;Idade mÃ©dia (anos) 46,76;46,76;45,78;46,28;JudiciÃ¡rio
-2022;Aposentados;Quantidade 12.112;12112,00;20227,00;32339,00;JudiciÃ¡rio
-2022;Aposentados;Provento mÃ©dio (R$) 20.527,33;20527,33;20097,46;20258,46;JudiciÃ¡rio
-2022;Aposentados;Idade mÃ©dia (anos) 70,32;70,32;66,45;67,90;JudiciÃ¡rio
-2022;Pensionistas;Quantidade 1.869;1869,00;7316,00;9185,00;JudiciÃ¡rio
-2022;Pensionistas;Provento mÃ©dio (R$) 14.379,79;14379,79;16039,90;15702,09;JudiciÃ¡rio
-2022;Pensionistas;Idade mÃ©dia (anos) 56,99;56,99;67,76;65,57;JudiciÃ¡rio
-2022;Servidores;Quantidade 10.254;10254,00;7993,00;18247,00;MinistÃ©rio PÃºblico
-2022;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 14.287,91;14287,91;14378,29;14327,50;MinistÃ©rio PÃºblico
-2022;Servidores;Idade mÃ©dia (anos) 45,50;45,50;44,12;44,89;MinistÃ©rio PÃºblico
-2022;Aposentados;Quantidade 1.023;1023,00;1502,00;2525,00;MinistÃ©rio PÃºblico
-2022;Aposentados;Provento mÃ©dio (R$) 21.788,02;21788,02;18483,62;19822,39;MinistÃ©rio PÃºblico
-2022;Aposentados;Idade mÃ©dia (anos) 70,32;70,32;67,42;68,60;MinistÃ©rio PÃºblico
-2022;Pensionistas;Quantidade 150;150,00;745,00;895,00;MinistÃ©rio PÃºblico
-2022;Pensionistas;Provento mÃ©dio (R$) 13.928,48;13928,48;17761,28;17118,91;MinistÃ©rio PÃºblico
-2022;Pensionistas;Idade mÃ©dia (anos) 52,55;52,55;67,97;65,38;MinistÃ©rio PÃºblico
-2021;Servidores;Quantidade;308415,00;248035,00;556450,00;Executivo
-2021;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);9521,69;8344,20;8996,83;Executivo
-2021;Servidores;Idade mÃ©dia (anos);47,97;46,60;47,13;Executivo
-2021;Aposentados;Quantidade;202842,00;225028,00;427870,00;Executivo
-2021;Aposentados;Provento.mÃ©dio..R..;969099,00;883311,00;923981,00;Executivo
-2021;Aposentados;Idade mÃ©dia (anos);72,87;70,61;71,68;Executivo
-2021;Pensionistas;Quantidade;27038,00;268519,00;295557,00;Executivo
-2021;Pensionistas;Provento mÃ©dio (R$);6080,43;6098,97;6097,27;Executivo
-2021;Pensionistas;Idade mÃ©dia (anos);63,53;72,31;71,50;Executivo
-2021;Servidores;Quantidade 4.840;4840,00;2353,00;7193,00;Legislativo
-2021;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 23.032,89;23032,89;22813,37;22961,08;Legislativo
-2021;Servidores;Idade mÃ©dia (anos) 47,86;47,86;46,95;47,56;Legislativo
-2021;Aposentados;Quantidade 4.148;4148,00;4610,00;8758,00;Legislativo
-2021;Aposentados;Provento mÃ©dio (R$) 33.112,73;33112,73;32925,36;33014,11;Legislativo
-2021;Aposentados;Idade mÃ©dia (anos) 70,27;70,27;67,92;69,03;Legislativo
-2021;Pensionistas;Quantidade 440;440,00;3065,00;3505,00;Legislativo
-2021;Pensionistas;Provento mÃ©dio (R$) 22.701,80;22701,80;23052,16;23008,18;Legislativo
-2021;Pensionistas;Idade mÃ©dia (anos) 61,16;61,16;67,01;66,28;Legislativo
-2021;Servidores;Quantidade 48.770;48770,00;46591,00;95361,00;JudiciÃ¡rio
-2021;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 13.483,78;13483,78;13680,03;13579,66;JudiciÃ¡rio
-2021;Servidores;Idade mÃ©dia (anos) 54,68;54,68;51,95;53,35;JudiciÃ¡rio
-2021;Aposentados;Quantidade 10.101;10101,00;17692,00;27793,00;JudiciÃ¡rio
-2021;Aposentados;Provento mÃ©dio (R$) 20.134,03;20134,03;19759,46;19895,59;JudiciÃ¡rio
-2021;Aposentados;Idade mÃ©dia (anos) 70,23;70,23;66,14;67,62;JudiciÃ¡rio
-2021;Pensionistas;Quantidade 1.290;1290,00;5961,00;7251,00;JudiciÃ¡rio
-2021;Pensionistas;Provento mÃ©dio (R$) 15.921,58;15921,58;16665,74;16533,35;JudiciÃ¡rio
-2021;Pensionistas;Idade mÃ©dia (anos) 60,12;60,12;70,44;68,61;JudiciÃ¡rio
-2021;Servidores;Quantidade 10.434;10434,00;8144,00;18578,00;MinistÃ©rio PÃºblico
-2021;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 14.095,94;14095,94;14182,11;14133,72;MinistÃ©rio PÃºblico
-2021;Servidores;Idade mÃ©dia (anos) 44,49;44,49;43,26;43,95;MinistÃ©rio PÃºblico
-2021;Aposentados;Quantidade 1.011;1011,00;1446,00;2457,00;MinistÃ©rio PÃºblico
-2021;Aposentados;Provento mÃ©dio (R$) 21.894,77;21894,77;18560,95;19932,74;MinistÃ©rio PÃºblico
-2021;Aposentados;Idade mÃ©dia (anos) 70,06;70,06;67,08;68,31;MinistÃ©rio PÃºblico
-2021;Pensionistas;Quantidade 154;154,00;766,00;920,00;MinistÃ©rio PÃºblico
-2021;Pensionistas;Provento mÃ©dio (R$) 14.439,47;14439,47;17142,42;16689,97;MinistÃ©rio PÃºblico
-2021;Pensionistas;Idade mÃ©dia (anos) 62,44;62,44;68,87;67,79;MinistÃ©rio PÃºblico
-2020;Servidores;Quantidade 302.879;302879,00;240747,00;543626,00;Executivo
-2020;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 10.271,76;10271,76;9099,25;9752,51;Executivo
-2020;Servidores;Idade mÃ©dia (anos) 48,49;48,49;47,26;47,95;Executivo
-2020;Aposentados;Quantidade 193.713;193713,00;214019,00;407732,00;Executivo
-2020;Aposentados;Provento mÃ©dio (R$) 9.592,75;9592,75;8183,12;8852,83;Executivo
-2020;Aposentados;Idade mÃ©dia (anos) 73,63;73,63;71,16;72,33;Executivo
-2020;Pensionistas;Quantidade 26.658;26658,00;255586,00;282244,00;Executivo
-2020;Pensionistas;Provento mÃ©dio (R$) 5.345,60;5345,60;5366,85;5364,84;Executivo
-2020;Pensionistas;Idade mÃ©dia (anos) 56,76;56,76;70,10;68,84;Executivo
-2020;Servidores;Quantidade 7.266;7266,00;4668,00;11934,00;Legislativo
-2020;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 21.468,99;21468,99;18251,59;20210,50;Legislativo
-2020;Servidores;Idade mÃ©dia (anos) 46,65;46,65;43,92;45,58;Legislativo
-2020;Aposentados;Quantidade 4.530;4530,00;4040,00;8570,00;Legislativo
-2020;Aposentados;Provento mÃ©dio (R$) 29.554,06;29554,06;28793,24;29195,40;Legislativo
-2020;Aposentados;Idade mÃ©dia (anos) 70,82;70,82;68,29;69,63;Legislativo
-2020;Pensionistas;Quantidade 442;442,00;3012,00;3454,00;Legislativo
-2020;Pensionistas;Provento mÃ©dio (R$) 15.101,82;15101,82;15219,99;15204,87;Legislativo
-2020;Pensionistas;Idade mÃ©dia (anos) 50,46;50,46;66,39;64,35;Legislativo
-2020;Servidores;Quantidade 302.879;302879,00;240747,00;543626,00;JudiciÃ¡rio
-2020;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 10.271,76;10271,76;9099,25;9752,51;JudiciÃ¡rio
-2020;Servidores;Idade mÃ©dia (anos) 48,49;48,49;47,26;47,95;JudiciÃ¡rio
-2020;Aposentados;Quantidade 193.713;193713,00;214019,00;407732,00;JudiciÃ¡rio
-2020;Aposentados;Provento mÃ©dio (R$) 9.592,75;9592,75;8183,12;8852,83;JudiciÃ¡rio
-2020;Aposentados;Idade mÃ©dia (anos) 73,63;73,63;71,16;72,33;JudiciÃ¡rio
-2020;Pensionistas;Quantidade 26.658;26658,00;255586,00;282244,00;JudiciÃ¡rio
-2020;Pensionistas;Provento mÃ©dio (R$) 5.345,60;5345,60;5366,85;5364,84;JudiciÃ¡rio
-2020;Pensionistas;Idade mÃ©dia (anos) 56,76;56,76;70,10;68,84;JudiciÃ¡rio
-2020;Servidores;Quantidade 7.266;7266,00;4668,00;11934,00;MinistÃ©rio PÃºblico
-2020;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 21.468,99;21468,99;18251,59;20210,50;MinistÃ©rio PÃºblico
-2020;Servidores;Idade mÃ©dia (anos) 46,65;46,65;43,92;45,58;MinistÃ©rio PÃºblico
-2020;Aposentados;Quantidade 4.530;4530,00;4040,00;8570,00;MinistÃ©rio PÃºblico
-2020;Aposentados;Provento mÃ©dio (R$) 29.554,06;29554,06;28793,24;29195,40;MinistÃ©rio PÃºblico
-2020;Aposentados;Idade mÃ©dia (anos) 70,82;70,82;68,29;69,63;MinistÃ©rio PÃºblico
-2020;Pensionistas;Quantidade 442;442,00;3012,00;3454,00;MinistÃ©rio PÃºblico
-2020;Pensionistas;Provento mÃ©dio (R$) 15.101,82;15101,82;15219,99;15204,87;MinistÃ©rio PÃºblico
-2020;Pensionistas;Idade mÃ©dia (anos) 50,46;50,46;66,39;64,35;MinistÃ©rio PÃºblico
-2019;Servidores;Quantidade;309386,00;245006,00;554392,00;Executivo
+Ano;Grupo;Descrição;Masculino;Feminino;Geral;Poder
+2023;Servidores;Quantidade;299037;237125;536162;Executivo
+2023;Servidores;Remuneração média (R$);10942,21;9603,98;10350,36;Executivo
+2023;Servidores;Idade média (anos);48,73;46,96;47,95;Executivo
+2023;Aposentados;Quantidade;199950;229093;429043;Executivo
+2023;Aposentados;Remuneração média (R$);10297,57;8697,08;9442,97;Executivo
+2023;Aposentados;Idade média (anos);73,88;71,98;72,86;Executivo
+2023;Pensionistas;Quantidade;27063;261829;288892;Executivo
+2023;Pensionistas;Remuneração média (R$);5734,25;5649,82;5657,73;Executivo
+2023;Pensionistas;Idade média (anos);59,08;71,21;70,08;Executivo
+2023;Servidores;Quantidade;4663;2237;6900;Legislativo
+2023;Servidores;Remuneração média (R$);22416,02;21505,43;22120,8;Legislativo
+2023;Servidores;Idade média (anos);49,31;48,23;48,96;Legislativo
+2023;Aposentados;Quantidade;4520;4139;8659;Legislativo
+2023;Aposentados;Remuneração média (R$);32978,47;32628,47;32811,17;Legislativo
+2023;Aposentados;Idade média (anos);71,24;69,54;70,43;Legislativo
+2023;Pensionistas;Quantidade;448;3218;3666;Legislativo
+2023;Pensionistas;Remuneração média (R$);18755,53;20504,13;20290,45;Legislativo
+2023;Pensionistas;Idade média (anos);52,07;67,76;65,84;Legislativo
+2023;Servidores;Quantidade;52186;50917;103103;Judiciário
+2023;Servidores;Remuneração média (R$);12907,51;12970,58;12938,66;Judiciário
+2023;Servidores;Idade média (anos);47,64;47,64;47,64;Judiciário
+2023;Aposentados;Quantidade;11476;20258;31734;Judiciário
+2023;Aposentados;Remuneração média (R$);21331,46;21772,05;21612,72;Judiciário
+2023;Aposentados;Idade média (anos);70,48;67,58;68,53;Judiciário
+2023;Pensionistas;Quantidade;1576;7836;9412;Judiciário
+2023;Pensionistas;Remuneração média (R$);12629,85;15603,61;15105,66;Judiciário
+2023;Pensionistas;Idade média (anos);53,08;66,98;64,65;Judiciário
+2023;Servidores;Quantidade;9375;7253;16628;Ministério Público
+2023;Servidores;Remuneração média (R$);14944,32;15078,18;15002,71;Ministério Público
+2023;Servidores;Idade média (anos);46,19;44,71;45,55;Ministério Público
+2023;Aposentados;Quantidade;1006;1504;2510;Ministério Público
+2023;Aposentados;Remuneração média (R$);22474,67;18926,95;20348,87;Ministério Público
+2023;Aposentados;Idade média (anos);70,77;68,34;69,32;Ministério Público
+2023;Pensionistas;Quantidade;173;793;966;Ministério Público
+2023;Pensionistas;Remuneração média (R$);12071,66;16853,92;15997,47;Ministério Público
+2023;Pensionistas;Idade média (anos);49,98;66,72;63,73;Ministério Público
+2022;Servidores;Quantidade;298810;239522;538332;Executivo
+2022;Servidores;Remuneração média (R$);9641,88;8466,72;9119,01;Executivo
+2022;Servidores;Idade média (anos);48,08;46,15;47,22;Executivo
+2022;Aposentados;Quantidade;205221;230661;435882;Executivo
+2022;Aposentados;Remuneração média (R$);10050,09;8559,6;9261,35;Executivo
+2022;Aposentados;Idade média (anos);72,92;70,88;71,84;Executivo
+2022;Pensionistas;Quantidade;26925;264466;291391;Executivo
+2022;Pensionistas;Remuneração média (R$);5766,65;5953,45;5936,19;Executivo
+2022;Pensionistas;Idade média (anos);59,84;71,01;69,98;Executivo
+2022;Servidores;Quantidade;4705;2278;6983;Legislativo
+2022;Servidores;Remuneração média (R$);22794,75;22602,54;22732,05;Legislativo
+2022;Servidores;Idade média (anos);48,49;47,51;48,17;Legislativo
+2022;Aposentados;Quantidade;4590;4177;8767;Legislativo
+2022;Aposentados;Remuneração média (R$);33072,62;32858,18;32970,45;Legislativo
+2022;Aposentados;Idade média (anos);70,99;68,61;69,86;Legislativo
+2022;Pensionistas;Quantidade;433;3156;3589;Legislativo
+2022;Pensionistas;Remuneração média (R$);21871,53;23930,49;23682,08;Legislativo
+2022;Pensionistas;Idade média (anos);52,8;65,32;63,81;Legislativo
+2022;Servidores;Quantidade;51037;48951;99988;Judiciário
+2022;Servidores;Remuneração média (R$);13496,1;13719,11;13605,28;Judiciário
+2022;Servidores;Idade média (anos);46,76;45,78;46,28;Judiciário
+2022;Aposentados;Quantidade;12112;20227;32339;Judiciário
+2022;Aposentados;Remuneração média (R$);20527,33;20097,46;20258,46;Judiciário
+2022;Aposentados;Idade média (anos);70,32;66,45;67,9;Judiciário
+2022;Pensionistas;Quantidade;1869;7316;9185;Judiciário
+2022;Pensionistas;Remuneração média (R$);14379,79;16039,9;15702,09;Judiciário
+2022;Pensionistas;Idade média (anos);56,99;67,76;65,57;Judiciário
+2022;Servidores;Quantidade;10254;7993;18247;Ministério Público
+2022;Servidores;Remuneração média (R$);14287,91;14378,29;14327,5;Ministério Público
+2022;Servidores;Idade média (anos);45,5;44,12;44,89;Ministério Público
+2022;Aposentados;Quantidade;1023;1502;2525;Ministério Público
+2022;Aposentados;Remuneração média (R$);21788,02;18483,62;19822,39;Ministério Público
+2022;Aposentados;Idade média (anos);70,32;67,42;68,6;Ministério Público
+2022;Pensionistas;Quantidade;150;745;895;Ministério Público
+2022;Pensionistas;Remuneração média (R$);13928,48;17761,28;17118,91;Ministério Público
+2022;Pensionistas;Idade média (anos);52,55;67,97;65,38;Ministério Público
+2021;Servidores;Quantidade;308415;248035;556450;Executivo
+2021;Servidores;Remuneração média (R$);9521,69;8344,2;8996,83;Executivo
+2021;Servidores;Idade média (anos);47,97;46,6;47,13;Executivo
+2021;Aposentados;Quantidade;202842;225028;427870;Executivo
+2021;Aposentados;Remuneração média (R$);969099;883311;923981;Executivo
+2021;Aposentados;Idade média (anos);72,87;70,61;71,68;Executivo
+2021;Pensionistas;Quantidade;27038;268519;295557;Executivo
+2021;Pensionistas;Remuneração média (R$);6080,43;6098,97;6097,27;Executivo
+2021;Pensionistas;Idade média (anos);63,53;72,31;71,5;Executivo
+2021;Servidores;Quantidade;4840;2353;7193;Legislativo
+2021;Servidores;Remuneração média (R$);23032,89;22813,37;22961,08;Legislativo
+2021;Servidores;Idade média (anos);47,86;46,95;47,56;Legislativo
+2021;Aposentados;Quantidade;4148;4610;8758;Legislativo
+2021;Aposentados;Remuneração média (R$);33112,73;32925,36;33014,11;Legislativo
+2021;Aposentados;Idade média (anos);70,27;67,92;69,03;Legislativo
+2021;Pensionistas;Quantidade;440;3065;3505;Legislativo
+2021;Pensionistas;Remuneração média (R$);22701,8;23052,16;23008,18;Legislativo
+2021;Pensionistas;Idade média (anos);61,16;67,01;66,28;Legislativo
+2021;Servidores;Quantidade;48770;46591;95361;Judiciário
+2021;Servidores;Remuneração média (R$);13483,78;13680,03;13579,66;Judiciário
+2021;Servidores;Idade média (anos);54,68;51,95;53,35;Judiciário
+2021;Aposentados;Quantidade;10101;17692;27793;Judiciário
+2021;Aposentados;Remuneração média (R$);20134,03;19759,46;19895,59;Judiciário
+2021;Aposentados;Idade média (anos);70,23;66,14;67,62;Judiciário
+2021;Pensionistas;Quantidade;1290;5961;7251;Judiciário
+2021;Pensionistas;Remuneração média (R$);15921,58;16665,74;16533,35;Judiciário
+2021;Pensionistas;Idade média (anos);60,12;70,44;68,61;Judiciário
+2021;Servidores;Quantidade;10434;8144;18578;Ministério Público
+2021;Servidores;Remuneração média (R$);14095,94;14182,11;14133,72;Ministério Público
+2021;Servidores;Idade média (anos);44,49;43,26;43,95;Ministério Público
+2021;Aposentados;Quantidade;1011;1446;2457;Ministério Público
+2021;Aposentados;Remuneração média (R$);21894,77;18560,95;19932,74;Ministério Público
+2021;Aposentados;Idade média (anos);70,06;67,08;68,31;Ministério Público
+2021;Pensionistas;Quantidade;154;766;920;Ministério Público
+2021;Pensionistas;Remuneração média (R$);14439,47;17142,42;16689,97;Ministério Público
+2021;Pensionistas;Idade média (anos);62,44;68,87;67,79;Ministério Público
+2020;Servidores;Quantidade;302879;240747;543626;Executivo
+2020;Servidores;Remuneração média (R$);10271,76;9099,25;9752,51;Executivo
+2020;Servidores;Idade média (anos);48,49;47,26;47,95;Executivo
+2020;Aposentados;Quantidade;193713;214019;407732;Executivo
+2020;Aposentados;Remuneração média (R$);9592,75;8183,12;8852,83;Executivo
+2020;Aposentados;Idade média (anos);73,63;71,16;72,33;Executivo
+2020;Pensionistas;Quantidade;26658;255586;282244;Executivo
+2020;Pensionistas;Remuneração média (R$);5345,6;5366,85;5364,84;Executivo
+2020;Pensionistas;Idade média (anos);56,76;70,1;68,84;Executivo
+2020;Servidores;Quantidade;7266;4668;11934;Legislativo
+2020;Servidores;Remuneração média (R$);21468,99;18251,59;20210,5;Legislativo
+2020;Servidores;Idade média (anos);46,65;43,92;45,58;Legislativo
+2020;Aposentados;Quantidade;4530;4040;8570;Legislativo
+2020;Aposentados;Remuneração média (R$);29554,06;28793,24;29195,4;Legislativo
+2020;Aposentados;Idade média (anos);70,82;68,29;69,63;Legislativo
+2020;Pensionistas;Quantidade;442;3012;3454;Legislativo
+2020;Pensionistas;Remuneração média (R$);15101,82;15219,99;15204,87;Legislativo
+2020;Pensionistas;Idade média (anos);50,46;66,39;64,35;Legislativo
+2020;Servidores;Quantidade;302879;240747;543626;Judiciário
+2020;Servidores;Remuneração média (R$);10271,76;9099,25;9752,51;Judiciário
+2020;Servidores;Idade média (anos);48,49;47,26;47,95;Judiciário
+2020;Aposentados;Quantidade;193713;214019;407732;Judiciário
+2020;Aposentados;Remuneração média (R$);9592,75;8183,12;8852,83;Judiciário
+2020;Aposentados;Idade média (anos);73,63;71,16;72,33;Judiciário
+2020;Pensionistas;Quantidade;26658;255586;282244;Judiciário
+2020;Pensionistas;Remuneração média (R$);5345,6;5366,85;5364,84;Judiciário
+2020;Pensionistas;Idade média (anos);56,76;70,1;68,84;Judiciário
+2020;Servidores;Quantidade;7266;4668;11934;Ministério Público
+2020;Servidores;Remuneração média (R$);21468,99;18251,59;20210,5;Ministério Público
+2020;Servidores;Idade média (anos);46,65;43,92;45,58;Ministério Público
+2020;Aposentados;Quantidade;4530;4040;8570;Ministério Público
+2020;Aposentados;Remuneração média (R$);29554,06;28793,24;29195,4;Ministério Público
+2020;Aposentados;Idade média (anos);70,82;68,29;69,63;Ministério Público
+2020;Pensionistas;Quantidade;442;3012;3454;Ministério Público
+2020;Pensionistas;Remuneração média (R$);15101,82;15219,99;15204,87;Ministério Público
+2020;Pensionistas;Idade média (anos);50,46;66,39;64,35;Ministério Público
+2019;Servidores;Quantidade;309386;245006;554392;Executivo
 2019;Servidores;Remuneração média (R$);9719,91;8675,32;9258,27;Executivo
-2019;Servidores;Idade média (anos);47,70;46,50;47,20;Executivo
-2019;Aposentados;Quantidade;192954,00;209386,00;402340,00;Executivo
-2019;Aposentados;Provento médio (R$);9164,76;7844,35;8477,59;Executivo
-2019;Aposentados;Idade média (anos);73,00;70,40;71,60;Executivo
-2019;Pensionistas;Quantidade;26655,00;258583,00;285238,00;Executivo
-2019;Pensionistas;Provento médio (R$);5147,84;5199,82;5194,96;Executivo
-2019;Pensionistas;Idade média (anos);55,50;69,50;68,20;Executivo
-2019;Servidores;Quantidade;5166,00;2656,00;7822,00;Legislativo
-2019;Servidores;Remuneração média (R$);18132,64;19524,35;18605,20;Legislativo
-2019;Servidores;Idade média (anos);46,30;45,90;46,20;Legislativo
-2019;Aposentados;Quantidade;4704,00;4101,00;8805,00;Legislativo
-2019;Aposentados;Provento médio (R$);26339,37;27378,77;26823,48;Legislativo
-2019;Aposentados;Idade média (anos);69,50;67,00;68,30;Legislativo
-2019;Pensionistas;Quantidade;745,00;4672,00;5417,00;Legislativo
-2019;Pensionistas;Provento médio (R$);19442,91;21441,51;21166,64;Legislativo
-2019;Pensionistas;Idade média (anos);49,40;64,50;62,40;Legislativo
-2019;Servidores;Quantidade;54737,00;54721,00;109458,00;JudiciÃ¡rio
-2019;Servidores;Remuneração média (R$);10008,89;9928,62;9968,76;JudiciÃ¡rio
-2019;Servidores;Idade média (anos);44,90;44,30;44,60;JudiciÃ¡rio
-2019;Aposentados;Quantidade;8408,00;13919,00;22327,00;JudiciÃ¡rio
-2019;Aposentados;Provento médio (R$);18216,05;17974,40;18065,40;JudiciÃ¡rio
-2019;Aposentados;Idade média (anos);69,90;66,00;67,40;JudiciÃ¡rio
-2019;Pensionistas;Quantidade;1238,00;8408,00;9646,00;JudiciÃ¡rio
-2019;Pensionistas;Provento médio (R$);10956,78;8440,75;8763,66;JudiciÃ¡rio
-2019;Pensionistas;Idade média (anos);49,60;69,90;67,30;JudiciÃ¡rio
-2019;Servidores;Quantidade;11279,00;8391,00;19670,00;MinistÃ©rio PÃºblico
-2019;Servidores;Remuneração média (R$);11754,03;11911,79;11821,33;MinistÃ©rio PÃºblico
-2019;Servidores;Idade média (anos);41,80;40,70;41,30;MinistÃ©rio PÃºblico
-2019;Aposentados;Quantidade;1257,00;1806,00;3063,00;MinistÃ©rio PÃºblico
-2019;Aposentados;Provento médio (R$);17502,96;12675,02;14656,32;MinistÃ©rio PÃºblico
-2019;Aposentados;Idade média (anos);68,90;64,90;66,50;MinistÃ©rio PÃºblico
-2019;Pensionistas;Quantidade;353,00;283,00;636,00;MinistÃ©rio PÃºblico
-2019;Pensionistas;Provento médio (R$);2147,23;9395,64;5372,55;MinistÃ©rio PÃºblico
-2019;Pensionistas;Idade média (anos);64,10;69,20;66,40;MinistÃ©rio PÃºblico
-2018;Servidores;Quantidade 318.688 259.881;318688,00;259881,00;578569,00;Executivo
-2018;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 8.563,46 7.604,07;8563,46;7604,07;8132,53;Executivo
-2018;Servidores;Idade mÃ©dia (anos) 47,38 45,94;47,38;45,94;46,74;Executivo
-2018;Aposentados;Quantidade 188.446 201.750;188446,00;201750,00;390196,00;Executivo
-2018;Aposentados;Provento mÃ©dio (R$) 7.973,39 6.905,01;7973,39;6905,01;7465,13;Executivo
-2018;Aposentados;Idade mÃ©dia (anos) 73,54 70,74;73,54;70,74;72,09;Executivo
-2018;Pensionistas;Quantidade 26.675 262.104;26675,00;262104,00;288779,00;Executivo
-2018;Pensionistas;Provento mÃ©dio (R$) 4.584,23 4.640,13;4584,23;4640,13;4634,97;Executivo
-2018;Pensionistas;Idade mÃ©dia (anos) 54,26 68,88;54,26;68,88;67,53;Executivo
-2018;Servidores;Quantidade 5.467 2.979;5467,00;2979,00;8446,00;Legislativo
-2018;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 15.939,13 17.202,02;15939,13;17202,02;16384,57;Legislativo
-2018;Servidores;Idade mÃ©dia (anos) 46,93 47,03;46,93;47,03;46,97;Legislativo
-2018;Aposentados;Quantidade 4.222 3.608;4222,00;3608,00;7830,00;Legislativo
-2018;Aposentados;Provento mÃ©dio (R$) 24.384,90 25.259,04;24384,90;25259,04;24844,81;Legislativo
-2018;Aposentados;Idade mÃ©dia (anos) 70,47 68,29;70,47;68,29;69,47;Legislativo
-2018;Pensionistas;Quantidade 419 2.562;419,00;2562,00;2981,00;Legislativo
-2018;Pensionistas;Provento mÃ©dio (R$) 18.434,03 20.577,61;18434,03;20577,61;20276,32;Legislativo
-2018;Pensionistas;Idade mÃ©dia (anos) 47,19 63,33;47,19;63,33;61,07;Legislativo
-2018;Servidores;Quantidade 55.708 56.356;55708,00;56356,00;112064,00;JudiciÃ¡rio
-2018;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 11.499,44 11.506,44;11499,44;11506,44;11502,96;JudiciÃ¡rio
-2018;Servidores;Idade mÃ©dia (anos) 44,74 44,30;44,74;44,30;44,52;JudiciÃ¡rio
-2018;Aposentados;Quantidade 8.728 13.855;8728,00;13855,00;22583,00;JudiciÃ¡rio
-2018;Aposentados;Provento mÃ©dio (R$) 15.048,23 14.921,65;15048,23;14921,65;16963,07;JudiciÃ¡rio
-2018;Aposentados;Idade mÃ©dia (anos) 67,77 65,08;67,77;65,08;66,12;JudiciÃ¡rio
-2018;Pensionistas;Quantidade 1.506 6.306;1506,00;6306,00;7812,00;JudiciÃ¡rio
-2018;Pensionistas;Provento mÃ©dio (R$) 13.088,75 13.976,67;13088,75;13976,67;13805,50;JudiciÃ¡rio
-2018;Pensionistas;Idade mÃ©dia (anos) 51,45 66,03;51,45;66,03;63,22;JudiciÃ¡rio
-2018;Servidores;Quantidade 10.989 8.074;10989,00;8074,00;19063,00;MinistÃ©rio PÃºblico
-2018;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$) 12.454,74 11.940,11;12454,74;11940,11;12236,77;MinistÃ©rio PÃºblico
-2018;Servidores;Idade mÃ©dia (anos) 41,97 40,81;41,97;40,81;41,48;MinistÃ©rio PÃºblico
-2018;Aposentados;Quantidade 823 1.152;823,00;1152,00;1975,00;MinistÃ©rio PÃºblico
-2018;Aposentados;Provento mÃ©dio (R$) 14.859,06 9.641,55;14859,06;9641,55;12002,90;MinistÃ©rio PÃºblico
-2018;Aposentados;Idade mÃ©dia (anos) 69,85 66,35;69,85;66,35;67,81;MinistÃ©rio PÃºblico
-2018;Pensionistas;Quantidade 399 415;399,00;415,00;814,00;MinistÃ©rio PÃºblico
-2018;Pensionistas;Provento mÃ©dio (R$) 13.054,60 14.773,19;13054,60;14773,19;13930,78;MinistÃ©rio PÃºblico
-2018;Pensionistas;Idade mÃ©dia (anos) 58,69 67,15;58,69;67,15;63,00;MinistÃ©rio PÃºblico
-2017;Servidores;Quantidade;304115,00;242877,00;546992,00;Executivo
-2017;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);8486,71;7656,60;8118,12;Executivo
-2017;Servidores;Idade mÃ©dia (anos);47,80;46,60;47,27;Executivo
-2017;Aposentados;Quantidade;188214,00;198200,00;386414,00;Executivo
-2017;Aposentados;Provento mÃ©dio (R$);7613,08;6688,45;7138,82;Executivo
-2017;Aposentados;Idade mÃ©dia (anos);73,40;70,43;71,87;Executivo
-2017;Pensionistas;Quantidade;26552,00;263456,00;290008,00;Executivo
-2017;Pensionistas;Provento mÃ©dio (R$);4234,36;4400,76;4385,53;Executivo
-2017;Pensionistas;Idade mÃ©dia (anos);53,17;68,44;67,04;Executivo
-2017;Servidores;Quantidade;5715,00;3227,00;8942,00;Legislativo
-2017;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);15495,22;16752,67;15949,01;Legislativo
-2017;Servidores;Idade mÃ©dia (anos);46,90;46,98;46,93;Legislativo
-2017;Aposentados;Quantidade;4061,00;3416,00;7477,00;Legislativo
-2017;Aposentados;Provento mÃ©dio (R$);24772,92;25530,70;25119,13;Legislativo
-2017;Aposentados;Idade mÃ©dia (anos);70,38;68,04;69,31;Legislativo
-2017;Pensionistas;Quantidade;412,00;2528,00;2940,00;Legislativo
-2017;Pensionistas;Provento mÃ©dio (R$);16285,02;17472,70;17306,26;Legislativo
-2017;Pensionistas;Idade mÃ©dia (anos);46,06;62,74;60,40;Legislativo
-2017;Servidores;Quantidade;35862,00;35754,00;71616,00;JudiciÃ¡rio
-2017;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);10453,16;10455,00;10454,08;JudiciÃ¡rio
-2017;Servidores;Idade mÃ©dia (anos);43,81;43,62;43,72;JudiciÃ¡rio
-2017;Aposentados;Quantidade;5409,00;8267,00;13676,00;JudiciÃ¡rio
-2017;Aposentados;Provento mÃ©dio (R$);16750,92;16041,72;16322,22;JudiciÃ¡rio
-2017;Aposentados;Idade mÃ©dia (anos);69,65;66,84;67,95;JudiciÃ¡rio
-2017;Pensionistas;Quantidade;1073,00;3426,00;4499,00;JudiciÃ¡rio
-2017;Pensionistas;Provento mÃ©dio (R$);11404,95;13154,35;12737,12;JudiciÃ¡rio
-2017;Pensionistas;Idade mÃ©dia (anos);53,58;66,55;63,46;JudiciÃ¡rio
-2017;Servidores;Quantidade;3310,00;2708,00;6018,00;MinistÃ©rio PÃºblico
-2017;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);9719,36;9649,53;9687,93;MinistÃ©rio PÃºblico
-2017;Servidores;Idade mÃ©dia (anos);39,98;38,86;39,47;MinistÃ©rio PÃºblico
-2017;Aposentados;Quantidade;619,00;864,00;1483,00;MinistÃ©rio PÃºblico
-2017;Aposentados;Provento mÃ©dio (R$);14103,34;8147,14;10633,24;MinistÃ©rio PÃºblico
-2017;Aposentados;Idade mÃ©dia (anos);70,06;67,37;68,49;MinistÃ©rio PÃºblico
-2017;Pensionistas;Quantidade;492,00;476,00;968,00;MinistÃ©rio PÃºblico
-2017;Pensionistas;Provento mÃ©dio (R$);9070,52;10342,96;9696,23;MinistÃ©rio PÃºblico
-2017;Pensionistas;Idade mÃ©dia (anos);60,30;67,45;63,82;MinistÃ©rio PÃºblico
-2016;Servidores;Quantidade;297546,00;236162,00;533708,00;Executivo
-2016;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);7873,28;7033,44;7501,66;Executivo
-2016;Servidores;Idade mÃ©dia (anos);47,95;46,77;47,43;Executivo
-2016;Aposentados;Quantidade;159874,00;174109,00;333983,00;Executivo
-2016;Aposentados;Provento mÃ©dio (R$);7215,93;6306,41;6741,79;Executivo
-2016;Aposentados;Idade mÃ©dia (anos);72,41;69,43;70,86;Executivo
-2016;Pensionistas;Quantidade;27076,00;279879,00;306955,00;Executivo
-2016;Pensionistas;Provento mÃ©dio (R$);5224,79;5121,51;5130,62;Executivo
-2016;Pensionistas;Idade mÃ©dia (anos);51,72;67,64;66,24;Executivo
-2016;Servidores;Quantidade;5411,00;3198,00;8609,00;Legislativo
-2016;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);14184,97;15233,27;14573,82;Legislativo
-2016;Servidores;Idade mÃ©dia (anos);46,40;46,74;46,52;Legislativo
-2016;Aposentados;Quantidade;3184,00;2469,00;5653,00;Legislativo
-2016;Aposentados;Provento mÃ©dio (R$);23251,96;23995,04;23576,51;Legislativo
-2016;Aposentados;Idade mÃ©dia (anos);70,23;67,56;69,06;Legislativo
-2016;Pensionistas;Quantidade;377,00;2363,00;2740,00;Legislativo
-2016;Pensionistas;Provento mÃ©dio (R$);15890,61;16966,12;16818,14;Legislativo
-2016;Pensionistas;Idade mÃ©dia (anos);46,35;62,55;60,32;Legislativo
-2016;Servidores;Quantidade;44354,00;46342,00;90696,00;JudiciÃ¡rio
-2016;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);9602,57;9655,74;9629,73;JudiciÃ¡rio
-2016;Servidores;Idade mÃ©dia (anos);43,70;43,48;43,59;JudiciÃ¡rio
-2016;Aposentados;Quantidade;5939,00;8886,00;14825,00;JudiciÃ¡rio
-2016;Aposentados;Provento mÃ©dio (R$);15353,29;15426,09;15396,93;JudiciÃ¡rio
-2016;Aposentados;Idade mÃ©dia (anos);72,29;68,42;69,97;JudiciÃ¡rio
-2016;Pensionistas;Quantidade;1356,00;6149,00;7505,00;JudiciÃ¡rio
-2016;Pensionistas;Provento mÃ©dio (R$);7775,47;8468,16;8343,01;JudiciÃ¡rio
-2016;Pensionistas;Idade mÃ©dia (anos);45,55;64,84;61,35;JudiciÃ¡rio
-2016;Servidores;Quantidade;6253,00;4517,00;10770,00;MinistÃ©rio PÃºblico
-2016;Servidores;RemuneraÃ§Ã£o mÃ©dia (R$);12830,42;12166,00;12551,76;MinistÃ©rio PÃºblico
-2016;Servidores;Idade mÃ©dia (anos);40,74;40,09;40,47;MinistÃ©rio PÃºblico
-2016;Aposentados;Quantidade;45,00;57,00;102,00;MinistÃ©rio PÃºblico
-2016;Aposentados;Provento mÃ©dio (R$);20472,57;15473,63;17679,04;MinistÃ©rio PÃºblico
-2016;Aposentados;Idade mÃ©dia (anos);71,94;67,13;69,25;MinistÃ©rio PÃºblico
-2016;Pensionistas;Quantidade;346,00;132,00;478,00;MinistÃ©rio PÃºblico
-2016;Pensionistas;Provento mÃ©dio (R$);17968,75;17968,75;17968,75;MinistÃ©rio PÃºblico
-2016;Pensionistas;Idade mÃ©dia (anos);58,05;69,12;61,10;MinistÃ©rio PÃºblico
+2019;Servidores;Idade média (anos);47,7;46,5;47,2;Executivo
+2019;Aposentados;Quantidade;192954;209386;402340;Executivo
+2019;Aposentados;Remuneração média (R$);9164,76;7844,35;8477,59;Executivo
+2019;Aposentados;Idade média (anos);73;70,4;71,6;Executivo
+2019;Pensionistas;Quantidade;26655;258583;285238;Executivo
+2019;Pensionistas;Remuneração média (R$);5147,84;5199,82;5194,96;Executivo
+2019;Pensionistas;Idade média (anos);55,5;69,5;68,2;Executivo
+2019;Servidores;Quantidade;5166;2656;7822;Legislativo
+2019;Servidores;Remuneração média (R$);18132,64;19524,35;18605,2;Legislativo
+2019;Servidores;Idade média (anos);46,3;45,9;46,2;Legislativo
+2019;Aposentados;Quantidade;4704;4101;8805;Legislativo
+2019;Aposentados;Remuneração média (R$);26339,37;27378,77;26823,48;Legislativo
+2019;Aposentados;Idade média (anos);69,5;67;68,3;Legislativo
+2019;Pensionistas;Quantidade;745;4672;5417;Legislativo
+2019;Pensionistas;Remuneração média (R$);19442,91;21441,51;21166,64;Legislativo
+2019;Pensionistas;Idade média (anos);49,4;64,5;62,4;Legislativo
+2019;Servidores;Quantidade;54737;54721;109458;Judiciário
+2019;Servidores;Remuneração média (R$);10008,89;9928,62;9968,76;Judiciário
+2019;Servidores;Idade média (anos);44,9;44,3;44,6;Judiciário
+2019;Aposentados;Quantidade;8408;13919;22327;Judiciário
+2019;Aposentados;Remuneração média (R$);18216,05;17974,4;18065,4;Judiciário
+2019;Aposentados;Idade média (anos);69,9;66;67,4;Judiciário
+2019;Pensionistas;Quantidade;1238;8408;9646;Judiciário
+2019;Pensionistas;Remuneração média (R$);10956,78;8440,75;8763,66;Judiciário
+2019;Pensionistas;Idade média (anos);49,6;69,9;67,3;Judiciário
+2019;Servidores;Quantidade;11279;8391;19670;Ministério Público
+2019;Servidores;Remuneração média (R$);11754,03;11911,79;11821,33;Ministério Público
+2019;Servidores;Idade média (anos);41,8;40,7;41,3;Ministério Público
+2019;Aposentados;Quantidade;1257;1806;3063;Ministério Público
+2019;Aposentados;Remuneração média (R$);17502,96;12675,02;14656,32;Ministério Público
+2019;Aposentados;Idade média (anos);68,9;64,9;66,5;Ministério Público
+2019;Pensionistas;Quantidade;353;283;636;Ministério Público
+2019;Pensionistas;Remuneração média (R$);2147,23;9395,64;5372,55;Ministério Público
+2019;Pensionistas;Idade média (anos);64,1;69,2;66,4;Ministério Público
+2018;Servidores;Quantidade;318688;259881;578569;Executivo
+2018;Servidores;Remuneração média (R$);8563,46;7604,07;8132,53;Executivo
+2018;Servidores;Idade média (anos);47,38;45,94;46,74;Executivo
+2018;Aposentados;Quantidade;188446;201750;390196;Executivo
+2018;Aposentados;Remuneração média (R$);7973,39;6905,01;7465,13;Executivo
+2018;Aposentados;Idade média (anos);73,54;70,74;72,09;Executivo
+2018;Pensionistas;Quantidade;26675;262104;288779;Executivo
+2018;Pensionistas;Remuneração média (R$);4584,23;4640,13;4634,97;Executivo
+2018;Pensionistas;Idade média (anos);54,26;68,88;67,53;Executivo
+2018;Servidores;Quantidade;5467;2979;8446;Legislativo
+2018;Servidores;Remuneração média (R$);15939,13;17202,02;16384,57;Legislativo
+2018;Servidores;Idade média (anos);46,93;47,03;46,97;Legislativo
+2018;Aposentados;Quantidade;4222;3608;7830;Legislativo
+2018;Aposentados;Remuneração média (R$);24384,9;25259,04;24844,81;Legislativo
+2018;Aposentados;Idade média (anos);70,47;68,29;69,47;Legislativo
+2018;Pensionistas;Quantidade;419;2562;2981;Legislativo
+2018;Pensionistas;Remuneração média (R$);18434,03;20577,61;20276,32;Legislativo
+2018;Pensionistas;Idade média (anos);47,19;63,33;61,07;Legislativo
+2018;Servidores;Quantidade;55708;56356;112064;Judiciário
+2018;Servidores;Remuneração média (R$);11499,44;11506,44;11502,96;Judiciário
+2018;Servidores;Idade média (anos);44,74;44,3;44,52;Judiciário
+2018;Aposentados;Quantidade;8728;13855;22583;Judiciário
+2018;Aposentados;Remuneração média (R$);15048,23;14921,65;16963,07;Judiciário
+2018;Aposentados;Idade média (anos);67,77;65,08;66,12;Judiciário
+2018;Pensionistas;Quantidade;1506;6306;7812;Judiciário
+2018;Pensionistas;Remuneração média (R$);13088,75;13976,67;13805,5;Judiciário
+2018;Pensionistas;Idade média (anos);51,45;66,03;63,22;Judiciário
+2018;Servidores;Quantidade;10989;8074;19063;Ministério Público
+2018;Servidores;Remuneração média (R$);12454,74;11940,11;12236,77;Ministério Público
+2018;Servidores;Idade média (anos);41,97;40,81;41,48;Ministério Público
+2018;Aposentados;Quantidade;823;1152;1975;Ministério Público
+2018;Aposentados;Remuneração média (R$);14859,06;9641,55;12002,9;Ministério Público
+2018;Aposentados;Idade média (anos);69,85;66,35;67,81;Ministério Público
+2018;Pensionistas;Quantidade;399;415;814;Ministério Público
+2018;Pensionistas;Remuneração média (R$);13054,6;14773,19;13930,78;Ministério Público
+2018;Pensionistas;Idade média (anos);58,69;67,15;63;Ministério Público
+2017;Servidores;Quantidade;304115;242877;546992;Executivo
+2017;Servidores;Remuneração média (R$);8486,71;7656,6;8118,12;Executivo
+2017;Servidores;Idade média (anos);47,8;46,6;47,27;Executivo
+2017;Aposentados;Quantidade;188214;198200;386414;Executivo
+2017;Aposentados;Remuneração média (R$);7613,08;6688,45;7138,82;Executivo
+2017;Aposentados;Idade média (anos);73,4;70,43;71,87;Executivo
+2017;Pensionistas;Quantidade;26552;263456;290008;Executivo
+2017;Pensionistas;Remuneração média (R$);4234,36;4400,76;4385,53;Executivo
+2017;Pensionistas;Idade média (anos);53,17;68,44;67,04;Executivo
+2017;Servidores;Quantidade;5715;3227;8942;Legislativo
+2017;Servidores;Remuneração média (R$);15495,22;16752,67;15949,01;Legislativo
+2017;Servidores;Idade média (anos);46,9;46,98;46,93;Legislativo
+2017;Aposentados;Quantidade;4061;3416;7477;Legislativo
+2017;Aposentados;Remuneração média (R$);24772,92;25530,7;25119,13;Legislativo
+2017;Aposentados;Idade média (anos);70,38;68,04;69,31;Legislativo
+2017;Pensionistas;Quantidade;412;2528;2940;Legislativo
+2017;Pensionistas;Remuneração média (R$);16285,02;17472,7;17306,26;Legislativo
+2017;Pensionistas;Idade média (anos);46,06;62,74;60,4;Legislativo
+2017;Servidores;Quantidade;35862;35754;71616;Judiciário
+2017;Servidores;Remuneração média (R$);10453,16;10455;10454,08;Judiciário
+2017;Servidores;Idade média (anos);43,81;43,62;43,72;Judiciário
+2017;Aposentados;Quantidade;5409;8267;13676;Judiciário
+2017;Aposentados;Remuneração média (R$);16750,92;16041,72;16322,22;Judiciário
+2017;Aposentados;Idade média (anos);69,65;66,84;67,95;Judiciário
+2017;Pensionistas;Quantidade;1073;3426;4499;Judiciário
+2017;Pensionistas;Remuneração média (R$);11404,95;13154,35;12737,12;Judiciário
+2017;Pensionistas;Idade média (anos);53,58;66,55;63,46;Judiciário
+2017;Servidores;Quantidade;3310;2708;6018;Ministério Público
+2017;Servidores;Remuneração média (R$);9719,36;9649,53;9687,93;Ministério Público
+2017;Servidores;Idade média (anos);39,98;38,86;39,47;Ministério Público
+2017;Aposentados;Quantidade;619;864;1483;Ministério Público
+2017;Aposentados;Remuneração média (R$);14103,34;8147,14;10633,24;Ministério Público
+2017;Aposentados;Idade média (anos);70,06;67,37;68,49;Ministério Público
+2017;Pensionistas;Quantidade;492;476;968;Ministério Público
+2017;Pensionistas;Remuneração média (R$);9070,52;10342,96;9696,23;Ministério Público
+2017;Pensionistas;Idade média (anos);60,3;67,45;63,82;Ministério Público
+2016;Servidores;Quantidade;297546;236162;533708;Executivo
+2016;Servidores;Remuneração média (R$);7873,28;7033,44;7501,66;Executivo
+2016;Servidores;Idade média (anos);47,95;46,77;47,43;Executivo
+2016;Aposentados;Quantidade;159874;174109;333983;Executivo
+2016;Aposentados;Remuneração média (R$);7215,93;6306,41;6741,79;Executivo
+2016;Aposentados;Idade média (anos);72,41;69,43;70,86;Executivo
+2016;Pensionistas;Quantidade;27076;279879;306955;Executivo
+2016;Pensionistas;Remuneração média (R$);5224,79;5121,51;5130,62;Executivo
+2016;Pensionistas;Idade média (anos);51,72;67,64;66,24;Executivo
+2016;Servidores;Quantidade;5411;3198;8609;Legislativo
+2016;Servidores;Remuneração média (R$);14184,97;15233,27;14573,82;Legislativo
+2016;Servidores;Idade média (anos);46,4;46,74;46,52;Legislativo
+2016;Aposentados;Quantidade;3184;2469;5653;Legislativo
+2016;Aposentados;Remuneração média (R$);23251,96;23995,04;23576,51;Legislativo
+2016;Aposentados;Idade média (anos);70,23;67,56;69,06;Legislativo
+2016;Pensionistas;Quantidade;377;2363;2740;Legislativo
+2016;Pensionistas;Remuneração média (R$);15890,61;16966,12;16818,14;Legislativo
+2016;Pensionistas;Idade média (anos);46,35;62,55;60,32;Legislativo
+2016;Servidores;Quantidade;44354;46342;90696;Judiciário
+2016;Servidores;Remuneração média (R$);9602,57;9655,74;9629,73;Judiciário
+2016;Servidores;Idade média (anos);43,7;43,48;43,59;Judiciário
+2016;Aposentados;Quantidade;5939;8886;14825;Judiciário
+2016;Aposentados;Remuneração média (R$);15353,29;15426,09;15396,93;Judiciário
+2016;Aposentados;Idade média (anos);72,29;68,42;69,97;Judiciário
+2016;Pensionistas;Quantidade;1356;6149;7505;Judiciário
+2016;Pensionistas;Remuneração média (R$);7775,47;8468,16;8343,01;Judiciário
+2016;Pensionistas;Idade média (anos);45,55;64,84;61,35;Judiciário
+2016;Servidores;Quantidade;6253;4517;10770;Ministério Público
+2016;Servidores;Remuneração média (R$);12830,42;12166;12551,76;Ministério Público
+2016;Servidores;Idade média (anos);40,74;40,09;40,47;Ministério Público
+2016;Aposentados;Quantidade;45;57;102;Ministério Público
+2016;Aposentados;Remuneração média (R$);20472,57;15473,63;17679,04;Ministério Público
+2016;Aposentados;Idade média (anos);71,94;67,13;69,25;Ministério Público
+2016;Pensionistas;Quantidade;346;132;478;Ministério Público
+2016;Pensionistas;Remuneração média (R$);17968,75;17968,75;17968,75;Ministério Público
+2016;Pensionistas;Idade média (anos);58,05;69,12;61,1;Ministério Público

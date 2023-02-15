@@ -1,0 +1,188 @@
+---
+title: "PLDO"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: cerulean
+    base_font:
+      google: Prompt
+      code_font:
+        google: JetBrains Mono
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(dplyr)
+library(echarts4r) # charts
+# Install thematic and un-comment for themed static plots (i.e., ggplot2)
+# thematic::thematic_rmd()
+```
+
+Column {data-width=650 .tabset}
+-----------------------------------------------------------------------
+
+### Dados consolidados
+
+```{r}
+library(readr)
+dados_consolidados <- read_delim("../data-raw/dados_consolidados.csv", 
+    delim = ";", escape_double = FALSE, locale = locale(decimal_mark = ",", 
+        grouping_mark = ".", encoding = "ISO-8859-1"), 
+    trim_ws = TRUE)
+
+
+
+dados_consolidados |> 
+  DT::datatable(
+    filter = "top",  # allows filtering on each column
+    extensions = c(
+      "Buttons",  # add download buttons, etc
+      "Scroller"  # for scrolling down the rows rather than pagination
+    ),
+    rownames = TRUE,  # remove rownames
+    style = "bootstrap",
+    class = "compact",
+    width = "100%",
+    options = list(
+      dom = "Blrtip",  # specify content (search box, etc)
+      deferRender = TRUE,
+      pageLength = 30,
+      scrollY = 300,
+      scroller = TRUE,
+      columnDefs = list(
+        list(
+          visible = TRUE,
+          targets = c(1:7)
+        )
+      ), 
+      buttons = list(
+        I("colvis"),  # turn columns on and off
+        "csv",  # download as .csv
+        "excel"  # download as .xlsx
+      )
+    )
+    # ,
+    # colnames = c(
+    #   "Data de acesso" = "data",
+    #   "IP de acesso" = "ip",
+    #   "SIAPE" = "siape",
+    #   "Servidor" = "nome.x",
+    #   "Base" = "acesso",
+    #   "Núcleo" = "exercicio",
+    #   "Ano" = "Ano"
+    # )
+  )
+```
+
+### Gráficos (ideias iniciais)
+
+```{r}
+# df_pivot <- dados_consolidados |> tidyr::pivot_longer(
+#   cols = c("Masculino", "Feminino", "Geral"),names_to = "Qtde" ) |> 
+#   tidyr::pivot_wider(names_from = "Descrição", values_from = value) 
+
+df_pivot_Exe_qtde <- dados_consolidados |> 
+  dplyr::filter(Grupo == "Servidores",
+         Poder == "Executivo",
+         Descrição == "Quantidade")
+
+df_pivot_Exe_rem <- dados_consolidados |>
+  filter(Grupo == "Servidores",
+         Poder == "Executivo",
+         Descrição == "Remuneração média (R$)")
+
+df_pivot_Exe_ida <- dados_consolidados |>
+  filter(Grupo == "Servidores",
+         Poder == "Executivo",
+         Descrição == "Idade média (anos)")
+
+# base_chart <- df_pivot_Exe %>%
+#   e_charts(x = Ano, height = 200) %>%
+#   e_tooltip() %>%
+#   e_x_axis(Ano, axisPointer = list(
+#     show = TRUE,
+#     label = list(show = FALSE)
+#   )) %>%
+#   e_y_axis(
+#     nameLocation = "end",
+#     nameTextStyle = list(
+#       color = "#666666",
+#       fontWeight = "bold"
+#     )
+#   ) %>%
+#   e_group("df_pivot_Exe") %>%
+#   e_grid(top = 35, bottom = 35)
+
+y <- df_pivot_Exe_qtde %>%
+  e_charts(x = Ano, height = 200) %>%
+  e_tooltip() %>%
+  e_x_axis(Ano, axisPointer = list(
+    show = TRUE,
+    label = list(show = FALSE)
+  )) %>%
+  e_y_axis(
+    nameLocation = "end",
+    nameTextStyle = list(
+      color = "#666666",
+      fontWeight = "bold"
+    )
+  ) %>%
+  e_bar(Masculino, symbol = "none", legend = FALSE) %>%
+  e_bar(Feminino, symbol = "none", legend = FALSE) %>%
+  e_datazoom(show = FALSE, toolbox = FALSE) %>%
+  e_axis_labels(y = "Quantidade de Servidores Ativos - Executivo")
+
+
+trend <- df_pivot_Exe_rem %>%
+  e_charts(x = Ano, height = 200) %>%
+  e_tooltip() %>%
+  e_x_axis(Ano, axisPointer = list(
+    show = TRUE,
+    label = list(show = FALSE)
+  )) %>%
+  e_y_axis(
+    nameLocation = "end",
+    nameTextStyle = list(
+      color = "#666666",
+      fontWeight = "bold"
+    )
+  ) %>%
+  e_line(Masculino, symbol = "none", legend = FALSE) %>%
+  e_line(Feminino, symbol = "none", legend = FALSE) %>%
+  e_datazoom(show = FALSE, toolbox = FALSE) %>%
+  e_axis_labels(y = "Remuneração média (R$)")
+
+
+weekly <- df_pivot_Exe_ida %>%
+   e_charts(x = Ano, height = 200) %>%
+  e_tooltip() %>%
+  e_x_axis(Ano, axisPointer = list(
+    show = TRUE,
+    label = list(show = FALSE)
+  )) %>%
+  e_y_axis(
+    nameLocation = "end",
+    nameTextStyle = list(
+      color = "#666666",
+      fontWeight = "bold"
+    )
+  ) %>%
+  e_bar(Masculino, symbol = "none", legend = FALSE) %>%
+  e_bar(Feminino, symbol = "none", legend = FALSE) %>%
+  e_datazoom(show = TRUE, toolbox = FALSE) %>%
+  e_axis_labels(y = "Idade Média (anos)") %>%
+  e_connect_group("df_pivot")
+# remainder <- base_chart %>%
+#   e_bar(Poder, legend = FALSE) %>%
+#   e_datazoom(
+#     show = TRUE,
+#     toolbox = FALSE
+#   ) %>%
+#   e_axis_labels(y = "Remainder")
+
+e_arrange(y, trend, weekly, nrow = 3)
+```
+
+
+
