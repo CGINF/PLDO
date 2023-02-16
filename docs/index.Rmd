@@ -136,11 +136,11 @@ y <- df_pivot_Exe_qtde %>%
       fontWeight = "bold"
     )
   ) %>%
-  e_bar(Masculino, symbol = "none", legend = FALSE) %>%
-  e_bar(Feminino, symbol = "none", legend = FALSE) %>%
+  e_bar(Masculino, legend = FALSE) %>%
+  e_bar(Feminino, legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
-  e_axis_labels(y = "Quantidade de Servidores Ativos - Executivo")
-
+  e_axis_labels(y = "Quantidade de Servidores Ativos - Executivo") |> 
+  echarts4r::e_legend(right = 0)
 
 trend <- df_pivot_Exe_rem %>%
   e_charts(x = Ano, height = 200) %>%
@@ -156,8 +156,8 @@ trend <- df_pivot_Exe_rem %>%
       fontWeight = "bold"
     )
   ) %>%
-  e_line(Masculino, symbol = "none", legend = FALSE) %>%
-  e_line(Feminino, symbol = "none", legend = FALSE) %>%
+  e_line(Masculino, legend = FALSE) %>%
+  e_line(Feminino, legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
   e_axis_labels(y = "Remuneração média (R$)")
 
@@ -176,8 +176,8 @@ weekly <- df_pivot_Exe_ida %>%
       fontWeight = "bold"
     )
   ) %>%
-  e_bar(Masculino, symbol = "none", legend = FALSE) %>%
-  e_bar(Feminino, symbol = "none", legend = FALSE) %>%
+  e_bar(Masculino, legend = FALSE) %>%
+  e_bar(Feminino, legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
   e_axis_labels(y = "Idade Média (anos)") %>%
   e_connect_group("df_pivot")
@@ -245,12 +245,14 @@ servidores <- df_pivot_Exe_serv %>%
       fontWeight = "bold"
     )) %>%
   #echarts4r::e_theme("gray") %>%
-  e_line(Executivo, symbol = "none", legend = FALSE) %>%
-  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
-  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
-  e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_line(Executivo,  legend = FALSE) %>%
+  e_line(Legislativo,  legend = FALSE) %>%
+  e_line(Judiciário,  legend = FALSE) %>%
+  e_line(`Ministério Público`,  legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
-  e_axis_labels(y = "Remuneração média (R$) - Servidores")
+  e_axis_labels(y = "Remuneração média (R$) - Servidores") |> 
+  echarts4r::e_legend(right = 0)
+  
 
 
 aposentados <- df_pivot_Exe_apose %>%
@@ -267,10 +269,10 @@ aposentados <- df_pivot_Exe_apose %>%
       fontWeight = "bold"
     )) %>%
   #echarts4r::e_theme("gray") %>%
-  e_line(Executivo, symbol = "none", legend = FALSE) %>%
-  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
-  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
-  e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_line(Executivo, legend = FALSE) %>%
+  e_line(Legislativo, legend = FALSE) %>%
+  e_line(Judiciário, legend = FALSE) %>%
+  e_line(`Ministério Público`, legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
   e_axis_labels(y = "Remuneração média (R$) - Aposentados")
 
@@ -289,10 +291,10 @@ pensionista <- df_pivot_Exe_Pens %>%
       fontWeight = "bold"
     )) %>%
   #echarts4r::e_theme("gray") %>%
-  e_line(Executivo, symbol = "none", legend = FALSE) %>%
-  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
-  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
-  e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_line(Executivo, legend = FALSE) %>%
+  e_line(Legislativo, legend = FALSE) %>%
+  e_line(Judiciário, legend = FALSE) %>%
+  e_line(`Ministério Público`, legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
   e_axis_labels(y = "Remuneração média (R$) - Pensionistas")
 
@@ -354,12 +356,13 @@ servidores <- df_pivot_Exe_serv %>%
       fontWeight = "bold"
     )) %>%
   #echarts4r::e_theme("gray") %>%
-  e_line(Executivo, symbol = "none", legend = FALSE) %>%
-  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
-  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
-  #e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_line(Executivo, legend = FALSE) %>%
+  e_line(Legislativo, legend = FALSE) %>%
+  e_line(Judiciário, legend = FALSE) %>%
+  #e_line(`Ministério Público`, legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
-  e_axis_labels(y = "Remuneração média (R$) - Servidores")
+  e_axis_labels(y = "Remuneração média (R$) - Servidores") |> 
+  echarts4r::e_legend(right = 0)
 
 
 aposentados <- df_pivot_Exe_apose %>%
@@ -376,10 +379,10 @@ aposentados <- df_pivot_Exe_apose %>%
       fontWeight = "bold"
     )) %>%
   #echarts4r::e_theme("gray") %>%
-  e_line(Executivo, symbol = "none", legend = FALSE) %>%
-  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
-  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
- # e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_line(Executivo, legend = FALSE) %>%
+  e_line(Legislativo, legend = FALSE) %>%
+  e_line(Judiciário, legend = FALSE) %>%
+ # e_line(`Ministério Público`, legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
   e_axis_labels(y = "Remuneração média (R$) - Aposentados")
 
@@ -398,10 +401,10 @@ pensionista <- df_pivot_Exe_Pens %>%
       fontWeight = "bold"
     )) %>%
   #echarts4r::e_theme("gray") %>%
-  e_line(Executivo, symbol = "none", legend = FALSE) %>%
-  e_line(Legislativo, symbol = "none", legend = FALSE) %>%
-  e_line(Judiciário, symbol = "none", legend = FALSE) %>%
- # e_line(`Ministério Público`, symbol = "none", legend = FALSE) %>%
+  e_line(Executivo, legend = FALSE) %>%
+  e_line(Legislativo, legend = FALSE) %>%
+  e_line(Judiciário, legend = FALSE) %>%
+ # e_line(`Ministério Público`, legend = FALSE) %>%
   e_datazoom(show = TRUE, toolbox = FALSE) %>%
   e_axis_labels(y = "Remuneração média (R$) - Pensionistas")
 
